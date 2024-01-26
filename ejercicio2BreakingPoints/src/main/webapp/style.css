@@ -1,0 +1,53 @@
+@charset "UTF-8";	
+
+.container{
+	border: 2px solid;
+}
+
+.titulo{
+	background-color: greenyellow;
+}
+
+.colRoja{
+	background-color: red;
+	border: 1px solid;
+	height: 36rem;
+	width: 14rem;
+}
+
+.cl2-2{
+	background-color: white;
+	border: 1px solid;
+	width: 68rem;
+}
+
+.fila3{
+	background-color: greenyellow;
+}
+
+.titulo2{
+	background-color: pink;
+	height: 3rem;
+	border: 1px solid;
+}
+
+.Menu{
+	background-color: navajowhite;
+	height: 17rem;
+	border: 1px solid;
+}
+
+
+.contenido{
+	border: 1px solid;
+	height: 0rem;
+}
+
+.bloquesAzules{
+	background-color: blue;
+	width: 13rem;
+    height: 8rem;
+    border: 1px solid;
+    
+}
+
