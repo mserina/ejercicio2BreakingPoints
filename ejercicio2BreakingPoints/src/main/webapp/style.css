@@ -11,8 +11,8 @@
 .colRoja{
 	background-color: red;
 	border: 1px solid;
-	height: 36rem;
-	width: 14rem;
+	/*height: 36rem;
+	width: 14rem;*/
 }
 
 .cl2-2{
@@ -49,5 +49,9 @@
     height: 8rem;
     border: 1px solid;
     
+}
+
+.pieVerde{
+	background-color: greenyellow;
 }
 
